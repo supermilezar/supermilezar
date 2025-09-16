@@ -1,5 +1,4 @@
-### About Me:
-🔭 I’m currently working on...\<br\>Automating daily tasks, exploring AI/ML, and building tools for my mountain-climbing adventures.\<br\>\<br\>👯 I’m looking to collaborate on...\<br\>Projects at the intersection of tech, neuroscience, and space exploration.\<br\>\<br\>🌱 I’m currently learning...\<br\>Mathematics, coding, server administration, and artificial intelligence.\<br\>\<br\>💬 Ask me about...\<br\>How to catch a running cat.\<br\>\<br\>⚡ Fun fact:\<br\>My best ideas are born on an unknown trail.
+###MY CRAZY IDEAS AND FRUSTRATIONS. A DIGITAL SPACE FOR PROJECTS WHERE I'M JUST HERE TO LEARN BECAUSE I ACTUALLY KNOW ONLY 0.000001% OF THESE THINGS 🧐
 
 
 # 💻 Tech Stack:
