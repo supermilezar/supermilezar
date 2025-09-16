@@ -10,15 +10,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supermilezar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
-    <a href="[https://link-ke-gambar-1.png](https://cdn.discordapp.com/attachments/1221675301042393118/1417505223722930218/0g34zojtjfk71.png?ex=68caba1d&is=68c9689d&hm=a8c70ad8cfd2bf08de6697dbada3458b8c6a908049bfaea5c2fd86e0681edc07&)">
-      <img src="[https://link-ke-gambar-1.png](https://cdn.discordapp.com/attachments/1221675301042393118/1417505223722930218/0g34zojtjfk71.png?ex=68caba1d&is=68c9689d&hm=a8c70ad8cfd2bf08de6697dbada3458b8c6a908049bfaea5c2fd86e0681edc07&)" width="200" height="200" />
+    <a href="https://media.discordapp.net/attachments/1221675301042393118/1417505223722930218/0g34zojtjfk71.png?ex=68caba1d&is=68c9689d&hm=a8c70ad8cfd2bf08de6697dbada3458b8c6a908049bfaea5c2fd86e0681edc07&=&format=webp&quality=lossless&width=400&height=400">
+        <img src="https://media.discordapp.net/attachments/1221675301042393118/1417505223722930218/0g34zojtjfk71.png?ex=68caba1d&is=68c9689d&hm=a8c70ad8cfd2bf08de6697dbada3458b8c6a908049bfaea5c2fd86e0681edc07&=&format=webp&quality=lossless&width=400&height=400" width="200" height="200" style="border: none;" />
     </a>
-    <a href="[https://link-ke-gambar-2.png](https://media.discordapp.net/attachments/1221675301042393118/1417505443927818300/images.png?ex=68caba51&is=68c968d1&hm=349cb81cd9c0ebba3bacef140bd73af37977b9f4916983be8a341371752b8be7&=&format=webp&quality=lossless&width=293&height=270)">
-      <img src="[https://link-ke-gambar-2.png](https://media.discordapp.net/attachments/1221675301042393118/1417505443927818300/images.png?ex=68caba51&is=68c968d1&hm=349cb81cd9c0ebba3bacef140bd73af37977b9f4916983be8a341371752b8be7&=&format=webp&quality=lossless&width=293&height=270)" width="200" height="200" />
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://media.discordapp.net/attachments/1221675301042393118/1417505443927818300/images.png?ex=68caba51&is=68c968d1&hm=349cb81cd9c0ebba3bacef140bd73af37977b9f4916983be8a341371752b8be7&=&format=webp&quality=lossless&width=293&height=270">
+        <img src="https://media.discordapp.net/attachments/1221675301042393118/1417505443927818300/images.png?ex=68caba51&is=68c968d1&hm=349cb81cd9c0ebba3bacef140bd73af37977b9f4916983be8a341371752b8be7&=&format=webp&quality=lossless&width=293&height=270" width="200" height="200" style="border: none;" />
     </a>
-    <a href="[https://link-ke-gambar-3.png](https://media.discordapp.net/attachments/1221675301042393118/1417506530517061694/Yellow-Emoji-Face-meme-4.png?ex=68cabb54&is=68c969d4&hm=654cc55e35919cefa7c6b9f8a5a2290a90cac18eaf63781a3c0a8599a212f8e8&=&format=webp&quality=lossless&width=593&height=575)">
-      <img src="https://media.discordapp.net/attachments/1221675301042393118/1417506530517061694/Yellow-Emoji-Face-meme-4.png?ex=68cabb54&is=68c969d4&hm=654cc55e35919cefa7c6b9f8a5a2290a90cac18eaf63781a3c0a8599a212f8e8&=&format=webp&quality=lossless&width=593&height=575" width="200" height="200" />
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://media.discordapp.net/attachments/1221675301042393118/1417506530517061694/Yellow-Emoji-Face-meme-4.png?ex=68cabb54&is=68c969d4&hm=654cc55e35919cefa7c6b9f8a5a2290a90cac18eaf63781a3c0a8599a212f8e8&=&format=webp&quality=lossless&width=593&height=575">
+        <img src="https://media.discordapp.net/attachments/1221675301042393118/1417506530517061694/Yellow-Emoji-Face-meme-4.png?ex=68cabb54&is=68c969d4&hm=654cc55e35919cefa7c6b9f8a5a2290a90cac18eaf63781a3c0a8599a212f8e8&=&format=webp&quality=lossless&width=593&height=575" width="200" height="200" style="border: none;" />
     </a>
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
