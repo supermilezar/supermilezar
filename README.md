@@ -1,4 +1,4 @@
-### MY CRAZY IDEAS AND FRUSTRATIONS. A DIGITAL SPACE FOR PROJECTS WHERE I'M JUST HERE TO LEARN BECAUSE I ACTUALLY KNOW ONLY 0.000001% OF THESE THINGS 🧐
+### CRAZY IDEAS AND FRUSTRATIONS.🧐
 
 # Just scratching the surface on these things 👇
 [![My Tools](https://skillicons.dev/icons?i=linux,python,aws,mongodb)](https://skillicons.dev)
