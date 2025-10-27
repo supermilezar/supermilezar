@@ -1,6 +1,5 @@
-### CRAZY IDEAS AND FRUSTRATIONS.🧐
-
-# Just scratching the surface on these things 👇
+### PROFILE
+# 
 [![My Tools](https://skillicons.dev/icons?i=linux,python,aws,mongodb)](https://skillicons.dev)
 
 # 💻 Exploring:
